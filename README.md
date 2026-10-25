@@ -20,8 +20,6 @@ My broader research interests include:
 - Computer vision and custom imaging for behavioural experiments
 - Social, reproductive, and sleep behaviour in *Drosophila melanogaster*
 
-My collaborative research experience also includes **limb variation in *Anolis* lizards** and work on **reproductive and sleep behaviour in *Drosophila melanogaster***. Working across these projects has allowed me to engage with different biological questions, experimental approaches, and analytical challenges while balancing collaborative commitments alongside my doctoral research.
-
 A major component of my PhD involves developing the experimental and computational infrastructure to study animals just **0.5 mm in length**. I'm building a custom imaging system for spider mites alongside an automated analysis pipeline that takes recordings from **video, to posture, to behaviour**.
 
 My PhD comprises multiple interconnected research questions, with further chapters and papers in development. I am also contributing to additional collaborative manuscripts on lizard limb variation and *Drosophila* reproductive and sleep behaviour.
